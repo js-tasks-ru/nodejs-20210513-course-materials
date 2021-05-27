@@ -1,0 +1,8 @@
+GET http://localhost:3000/path?query=param
+Content-Type: application/json;
+Cookie: key=value;
+Cookie: key2=value2;
+
+{
+  "hello": "world"
+}
