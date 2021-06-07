@@ -5,4 +5,4 @@ coverage
 reports
 */**/local.json
 .stryker-tmp
-#*/**/local.js
+files
